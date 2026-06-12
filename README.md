@@ -1,50 +1,131 @@
-# Android-Attendance-App
+# 📱 Android Attendance App
+
+Android is the ideal platform for developing attendance management applications because of the wide variety of devices it supports.
+
+This project is an Attendance Management System developed using **Android Studio**, **Java**, and **XML**. It enables faculty members to manage classes, register students, add subjects, and maintain attendance records efficiently.
+
+## 🚀 Project Overview
+
+The application allows faculty members to:
+
+* Register students in a class
+* Add and manage subjects
+* Mark attendance digitally
+* View attendance records
+* Manage student information
+* Store notes subject-wise
+
+## 🛠️ Technologies Used
+
+* Java
+* Android Studio
+* XML
+* SQLite Database
+* Android SDK
+
+## ✨ Features Available
+
+### 👨‍💼 Admin Module
+
+* Add Student
+* Add Faculty
+* Add Teacher
+* View Student Details
+* View Teacher Details
+* View Student Attendance
+* View Individual Student Attendance Records
+
+### 👨‍🏫 Teacher Module
+
+* Take Attendance Class-wise
+* Add New Students
+* View Student Attendance
+* Edit Student Information
+* Edit Attendance Records
+* Save Notes Subject-wise
+* Simple and User-Friendly Interface
+
+## 💻 Software Requirements
+
+* Android Studio
+* Latest Android SDK
+* Java Development Kit (JDK)
+* Internet Connection
+
+## 🔐 Admin Login Credentials
+
+### Username
+
+```text
+admin
+```
+
+### Password
+
+```text
+admin123
+```
+
+## 📂 Project Structure
+
+```text
+Android-Attendance-App/
+│
+├── app/
+├── gradle/
+├── build.gradle
+├── settings.gradle
+├── README.md
+└── Screenshot_20241021_212126.png
+```
+
+## ⚙️ Installation
+
+### Step 1: Clone Repository
+
+```bash
+git clone https://github.com/prs96k/android-attendance-app.git
+```
+
+### Step 2: Open in Android Studio
+
+* Launch Android Studio
+* Click "Open Existing Project"
+* Select the project folder
+
+### Step 3: Sync Gradle
+
+Allow Android Studio to download dependencies and complete Gradle Sync.
+
+### Step 4: Run Application
+
+* Connect an Android device or start an emulator
+* Click Run ▶ in Android Studio
 
 
+## 🎯 Applications
 
-See Demo Here - https://projectworlds.in/android-projects-with-source-code/android-attendance-system-app-source-code/
+* Schools
+* Colleges
+* Universities
+* Coaching Institutes
+* Training Centers
 
-More Project
+## 🔮 Future Enhancements
 
-Youtube Channel Link :https://www.youtube.com/channel/UCFMkpvtYjSAPXUPjImQK7bg?sub_confirmation=1
+* Cloud Database Integration
+* QR Code Attendance
+* Face Recognition Attendance
+* Attendance Analytics Dashboard
+* PDF Report Generation
+* Excel Export Support
 
+## 👨‍💻 Author
 
-Android is the ideal platform for developing such an application due to the wide variety of devices it supports.
+Prerana
 
-android developer, Java, Android Studio, Xml ·
-It is a system developed in android studio through which
-faculty can register the number of students in a particular
-class then register the number of subjects in that class and can mark the attendance of the students.
-<h2>Features Available</h2>
-<h3>Admin Module</h3>
-<ul>
- 	<li>Add Student.</li>
- 	<li>Add Faculty.</li>
- 	<li>Add Teacher.</li>
- 	<li>View Student.</li>
- 	<li>View Teacher.</li>
- 	<li>View Student Attendance.</li>
- 	<li>View each student’s attendance separately</li>
-</ul>
-<h3>Teacher Module</h3>
-<ul>
- 	<li>Take attendance and keep them class wise</li>
- 	<li>Add New student. View each student’s attendance separately</li>
- 	<li>Edit Student/Attendance later</li>
- 	<li>Save notes subject wise</li>
- 	<li>Simple  designed interface</li>
-</ul>
-<h3 id="requirement" class="notes">Software Requirement</h3>
-<ul>
- 	<li>Android Studio</li>
- 	<li>Latest Version</li>
- 	<li>Internet Connection</li>
- 	<li>Java</li>
-</ul>
-<h3>Admin Login</h3>
-<ul>
- 	<li>Username :-admin</li>
- 	<li>Password :-admin123</li>
-</ul>
-&nbsp;
-<h3>Installation :</h3>
+GitHub: https://github.com/prs96k
+
+## 📜 License
+
+This project is developed for educational and learning purposes.
